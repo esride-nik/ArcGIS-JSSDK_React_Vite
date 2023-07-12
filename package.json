@@ -1,0 +1,23 @@
+{
+  "name": "arcgis-api-for-javascript-sample-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@arcgis/core": "4.24.7"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0"
+  },
+  "keywords": [
+    "geospatial",
+    "arcgis-js-api",
+    "arcgis",
+    "esri",
+    "gis"
+  ],
+  "description": "Sample which shows how to use the ArcGIS API for Javascript with the Vite bundler."
+}
